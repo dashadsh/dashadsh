@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Dasha: 
-classically trained pianist with 2 degrees,
+classically trained pianist with 2 university degrees,
 electronic musician & audio production lecturer,
 42Wolfsburg student & C/C++ lover.
 
