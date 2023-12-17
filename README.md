@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Dasha: 
+classically trained pianist with 2 degrees,
+electronic musician & university lecturer,
+42Wolfsburg student & C/C++ lover.
+
+Connect with me on https://www.linkedin.com/in/dariagoremykina/
 
 <!--
 **dashadsh/dashadsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
