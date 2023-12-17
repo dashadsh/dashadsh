@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dasha: 
 classically trained pianist with 2 university degrees,
-electronic musician & audio production lecturer, software ingeneering student at
+electronic musician & audio production lecturer, software engineering student at
 42Wolfsburg & C/C++ lover.
 
 I'm currently exploring JUCE framework.
