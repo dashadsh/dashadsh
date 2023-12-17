@@ -5,8 +5,6 @@ electronic musician & audio production lecturer,
 
 I'm currently exploring JUCE framework.
 
-Connect with me here https://www.linkedin.com/in/dariagoremykina/
-
 <!--
 **dashadsh/dashadsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
