@@ -3,6 +3,8 @@ classically trained pianist with 2 degrees,
 electronic musician & university lecturer,
 42Wolfsburg student & C/C++ lover.
 
+I'm currently exploring JUCE framework.
+
 Connect with me here https://www.linkedin.com/in/dariagoremykina/
 
 <!--
