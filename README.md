@@ -6,7 +6,7 @@ electronic musician & audio production lecturer, software engineering student at
 I'm currently exploring JUCE framework for audio plugins.
 
 
-### 42 Projects:
+### some 42 Projects:
 
 | Project| Circle  | Description     | Language |
 |--------|:-------:|-----------------|:--------:|
