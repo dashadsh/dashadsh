@@ -1,12 +1,13 @@
-### Hi there 👋 I'm Dasha: 
-pianist with 2 university degrees,
-electronic musician & audio production lecturer, software engineering student at
-42Wolfsburg.
+### Hi 👋 I'm Dasha,
 
-I'm currently exploring JUCE framework for audio plugins.
+aspiring software engineer, 
+student at 42Wolfsburg (specialization C, C++, testing),
+Master of Arts,
+audio production lecturer at Catalyst Institute Berlin.
 
+currently exploring JUCE for VST3 & CLAP
 
-### some 42 Projects:
+### some of my 42 Projects:
 
 | Project| Circle  | Description     | Language |
 |--------|:-------:|-----------------|:--------:|
@@ -22,6 +23,8 @@ I'm currently exploring JUCE framework for audio plugins.
 |[FTPRINTF](https://github.com/dashadsh/ft_printf)|-(1)-|Recreation of printf function|C|
 |[LIBFT](https://github.com/dashadsh/libft_extended)|-(0)-|Custom library|C|
 
+### Get in touch: 
+d.goremykina@gmail.com
 <!--
 **dashadsh/dashadsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
