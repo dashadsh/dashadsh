@@ -3,7 +3,7 @@
 aspiring software engineer,\
 student at 42Wolfsburg (specialization C, C++, testing),\
 Master of Arts,\
-audio production lecturer at Catalyst Institute Berlin.\
+audio production lecturer at Catalyst Institute Berlin.
 
 currently exploring juce framework for vst3 & clap
 
@@ -18,7 +18,7 @@ currently exploring juce framework for vst3 & clap
 [so_long](https://github.com/dashadsh/so_long) - 2D game in C\
 [get_next_line](https://github.com/dashadsh/get_next_line) - custom function in C\
 [ft_printf](https://github.com/dashadsh/ft_printf) - custom printf in C\
-[libft](https://github.com/dashadsh/libft_extended) - custom library in C\
+[libft](https://github.com/dashadsh/libft_extended) - custom library in C
 
 ### Get in touch: 
 d.goremykina@gmail.com
