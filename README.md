@@ -3,7 +3,7 @@
 aspiring software engineer,\
 student at 42Wolfsburg (specialization C, C++, testing),\
 Master of Arts,\
-audio production lecturer at Catalyst Institute Berlin.
+audio production/electronic music production lecturer at Catalyst Institute Berlin.
 
 currently exploring juce framework for vst3 & clap
 
