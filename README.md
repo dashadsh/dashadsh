@@ -10,6 +10,7 @@ currently exploring juce framework for vst3 & clap
 ### some of my 42 Projects:
 
 [cpp_modules](https://github.com/dashadsh/cpp) - C++ DSA\
+[slider](https://github.com/dashadsh/SimpleSlider) - small vst plugin with C++ & JUCE\
 [minishell](https://github.com/dashadsh/minishell) - recreation of Bash shell in C\
 [philosophers](https://github.com/dashadsh/philo) - multithreading program about resource management\
 [cub3d](https://github.com/dashadsh/cub3d) - 3D game, using raycasting in C\
