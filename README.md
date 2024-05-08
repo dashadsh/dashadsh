@@ -9,19 +9,16 @@ currently exploring juce framework for vst3 & clap
 
 ### some of my 42 Projects:
 
-| Project| Circle  | Description     | Language |
-|--------|:-------:|-----------------|:--------:|
-|[CPP_MODULES](https://github.com/dashadsh/cpp)|-(4)-|C++ Programming|C++|
-|[MINISHELL](https://github.com/dashadsh/minishell)|-(3)-|Recreation of Bash shell|C|
-|[PHILOSOPHERS](https://github.com/dashadsh/philo)|-(3)-|Multithreading program about resource management|C|
-|[CUB3D](https://github.com/dashadsh/cub3d)|-(3)-|3D game, using raycasting|C|
-|[PIPEX](https://github.com//dashadsh/pipex)|-(2)-|UNIX redirections and pipes|C|
-|[PUSHSWAP](https://github.comdashadsh/push_swap)|-(2)-|Sorting algorythm|C|
-|[SO_LONG](https://github.com/dashadsh/so_long)|-(2)-|2D game, using minilibx|C|
-|[BORN2BEROOT](https://github.com/dashadsh/born2beroot)|-(1)-|Virtual machine|Shell|
-|[GETNEXTLINE](https://github.com/dashadsh/get_next_line)|-(1)-|Reading from a file descriptor|C|
-|[FTPRINTF](https://github.com/dashadsh/ft_printf)|-(1)-|Recreation of printf function|C|
-|[LIBFT](https://github.com/dashadsh/libft_extended)|-(0)-|Custom library|C|
+|[cpp_modules](https://github.com/dashadsh/cpp)|C++ DSA|
+|[minishell](https://github.com/dashadsh/minishell)|Recreation of Bash shell in C|
+|[philosophers](https://github.com/dashadsh/philo)|Multithreading program about resource management|
+|[cub3d](https://github.com/dashadsh/cub3d)|3D game, using raycasting in C|
+|[pipex](https://github.com//dashadsh/pipex)|UNIX redirections and pipes in C|
+|[pushswap](https://github.comdashadsh/push_swap)|Custom sorting algorythm in C|
+|[so_long](https://github.com/dashadsh/so_long)|2D game in C|
+|[get_next_line](https://github.com/dashadsh/get_next_line)|custom function in C|
+|[ft_printf](https://github.com/dashadsh/ft_printf)|custom printf in C|
+|[libft](https://github.com/dashadsh/libft_extended)|custom library in C|
 
 ### Get in touch: 
 d.goremykina@gmail.com
