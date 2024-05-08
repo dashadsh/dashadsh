@@ -1,4 +1,4 @@
-### Hi 👋 I'm Dasha,
+### hi 👋 I'm Dasha,
 
 aspiring software engineer,\
 student at 42Wolfsburg (specialization C, C++, testing),\
@@ -21,7 +21,7 @@ currently exploring juce framework for vst3 & clap
 [ft_printf](https://github.com/dashadsh/ft_printf) - custom printf in C\
 [libft](https://github.com/dashadsh/libft_extended) - custom library in C
 
-### Get in touch: 
+### get in touch: 
 d.goremykina@gmail.com
 <!--
 **dashadsh/dashadsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
