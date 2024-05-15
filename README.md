@@ -1,9 +1,9 @@
 ### hi 👋 I'm Dasha,
 
 aspiring software engineer,\
-student at 42Wolfsburg (specialization C, C++, testing),\
+student at 42Wolfsburg (mostly writing in C, C++ & testing),\
 Master of Arts,\
-audio production & electronic music production lecturer at Catalyst Institute Berlin.
+audio & electronic music production lecturer at Catalyst Institute Berlin.
 
 currently exploring juce framework for vst3 & clap
 
