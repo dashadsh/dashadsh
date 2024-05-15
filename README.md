@@ -1,4 +1,4 @@
-### hi 👋 I'm Dasha,
+### hi, I'm Dasha,
 
 aspiring software engineer,\
 student at 42Wolfsburg (mostly writing in C, C++ & testing),\
