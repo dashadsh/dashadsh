@@ -8,7 +8,7 @@ audio & electronic music production lecturer at Catalyst Institute Berlin.
 currently exploring juce framework for vst3 & clap
 
 ### some of my Projects:
-[inception](https://github.com/dashadsh/inception) - a multi-service architecture setup using Docker
+[inception](https://github.com/dashadsh/inception) - a multi-service architecture setup using Docker\
 [webserver](https://github.com/dashadsh/webserver) - a lightweight HTTP server in C++\
 [slider](https://github.com/dashadsh/SimpleSlider) - small vst plugin with C++ & JUCE\
 [minishell](https://github.com/dashadsh/minishell) - recreation of Bash shell in C\
