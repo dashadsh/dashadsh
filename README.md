@@ -7,14 +7,15 @@ audio & electronic music production lecturer at Catalyst Institute Berlin.
 
 currently exploring juce framework for vst3 & clap
 
-### some of my 42 Projects:
-
-[cpp_modules](https://github.com/dashadsh/cpp) - C++ DSA\
+### some of my Projects:
+[inception](https://github.com/dashadsh/inception) - a multi-service architecture setup using Docker
+[webserver](https://github.com/dashadsh/webserver) - a lightweight HTTP server in C++\
 [slider](https://github.com/dashadsh/SimpleSlider) - small vst plugin with C++ & JUCE\
 [minishell](https://github.com/dashadsh/minishell) - recreation of Bash shell in C\
 [philosophers](https://github.com/dashadsh/philo) - multithreading program about resource management\
 [cub3d](https://github.com/dashadsh/cub3d) - 3D game, using raycasting in C\
 [pipex](https://github.com//dashadsh/pipex) - UNIX redirections and pipes in C\
+[cpp_modules](https://github.com/dashadsh/cpp) - C++ DSA\
 [pushswap](https://github.comdashadsh/push_swap) - Custom sorting algorythm in C\
 [so_long](https://github.com/dashadsh/so_long) - 2D game in C\
 [get_next_line](https://github.com/dashadsh/get_next_line) - custom function in C\
