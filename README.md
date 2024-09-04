@@ -5,7 +5,7 @@ student at 42Wolfsburg (mostly coding in C, C++ & testing),\
 Master of Arts,\
 audio & electronic music production lecturer at Catalyst Institute Berlin.
 
-currently exploring juce framework for vst3 & clap
+currently exploring juce framework
 
 ### some of my projects:
 [inception](https://github.com/dashadsh/inception) - a multi-service architecture setup using Docker\
