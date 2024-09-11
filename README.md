@@ -1,7 +1,6 @@
 ### hi, I'm Dasha,
 
-aspiring software engineer,\
-student at 42Wolfsburg (mostly coding in C, C++ & testing),\
+CS student at 42Wolfsburg (mostly coding in C, C++ & testing),\
 Master of Arts,\
 audio & electronic music production lecturer at Catalyst Institute Berlin.
 
